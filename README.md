@@ -1,2 +1,2 @@
-# wtf2019
+# wtfgriffindor.github.io
 WTF Repository for HTML
